@@ -1,0 +1,13 @@
+create a player - создать игрока
+shoot projecticles - стрельба снарядами
+create enemies - создать врагов 
+detect collision on enemy / projectile hit - установить столкновение с противником - выстрел снарядами
+detect collision on enemy / player hit установить столкновение с противником - столкновение с игроком
+remove offscreen projecticles - удалить снаряды с экрана
+colorize game  - раскрасить игру
+shrink enemies on hit  - уменьшать врагов при ударе
+create particle explosion on hit  - создать взрыв при ударе
+add score - добавить прогресс
+add game over ui - добавить окно игра окончена 
+add restart button - добавить кноку рестарта
+add start game button - добавить кнопку старта
